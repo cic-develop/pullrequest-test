@@ -1,0 +1,1 @@
+console.log('풀리만들때 노티 나와라 plz')
